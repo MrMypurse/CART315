@@ -1,0 +1,32 @@
+body{
+  background-image: url('assets/bg.png');
+  background-size: cover;
+  font-size: 30px;
+}
+
+#cowBox{
+  position: absolute;
+  left: 50%;
+  top: 25%;
+}
+
+#numberBox{
+    position: absolute;
+    top: 8%;
+    left: 15%;
+}
+#displayBox{
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
+
+#infoBox1, #infoBox2, #infoBox3, #infoBox4, #infoBox5, #infoBox6 {
+  font-size: 20px;
+  position: absolute;
+  left: 40%;
+  height: 30%;
+  width: 150px;
+  color: black;
+  display: none;
+}
