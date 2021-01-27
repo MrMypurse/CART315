@@ -1,0 +1,249 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 8109 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/doc/1SCHOOL/W21/CART 315/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60281
+Successfully changed project path to: D:/doc/1SCHOOL/W21/CART 315/New Unity Project
+D:/doc/1SCHOOL/W21/CART 315/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/doc/1SCHOOL/W21/CART 315/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920M (ID=0x1299)
+    Vendor:   
+    VRAM:     2020 MB
+    Driver:   22.21.13.8205
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56904
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002295 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.641 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000638 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.079 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 2.419600 ms (FindLiveObjects: 0.444600 ms CreateObjectMapping: 0.094000 ms MarkObjects: 1.816700 ms  DeleteObjects: 0.062300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Mente Bacata/Scivolo Character Controller
+  artifactKey: Guid(e60370a77069db147b026e160867b0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata/Scivolo Character Controller using Guid(e60370a77069db147b026e160867b0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad52e0a5d03b6ffa487becc603a4289e') in 0.046349 seconds
+  Import took 0.049841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/Mente Bacata/Scivolo Character Controller/Demo/Scenes
+  artifactKey: Guid(f95799fe7945e8646a30cf10ca8c4bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata/Scivolo Character Controller/Demo/Scenes using Guid(f95799fe7945e8646a30cf10ca8c4bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d86b41052e9c11fc45db4d046cff16a') in 0.009777 seconds
+  Import took 0.014762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Mente Bacata/Scivolo Character Controller/Demo
+  artifactKey: Guid(a22778ccc2b96c440bc8ce54dbd096c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata/Scivolo Character Controller/Demo using Guid(a22778ccc2b96c440bc8ce54dbd096c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be2edf716b04e730b7286b0ecff2c34') in 0.013860 seconds
+  Import took 0.019502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Mente Bacata
+  artifactKey: Guid(072db2613c26b4b40aff2d795481a7da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata using Guid(072db2613c26b4b40aff2d795481a7da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5faeac2789a3bc1b8d3cb662669987c1') in 0.012878 seconds
+  Import took 0.016940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.929611 seconds.
+  path: Assets/Mente Bacata/Scivolo Character Controller/Demo/Models
+  artifactKey: Guid(913c8f26caf43e24f86e0251b3ad4175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata/Scivolo Character Controller/Demo/Models using Guid(913c8f26caf43e24f86e0251b3ad4175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fddfbc408729da77a78bc1eab08cb7ed') in 0.017793 seconds
+  Import took 0.023124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002382 seconds.
+  path: Assets/Mente Bacata/Scivolo Character Controller/Demo/Models
+  artifactKey: Guid(913c8f26caf43e24f86e0251b3ad4175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata/Scivolo Character Controller/Demo/Models using Guid(913c8f26caf43e24f86e0251b3ad4175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fddfbc408729da77a78bc1eab08cb7ed') in 0.003249 seconds
+  Import took 0.006905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055269 seconds.
+  path: Assets/Mente Bacata/Scivolo Character Controller/Demo/Models/Terrain.fbx
+  artifactKey: Guid(56b3739bce3101c4a860174b33e89edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata/Scivolo Character Controller/Demo/Models/Terrain.fbx using Guid(56b3739bce3101c4a860174b33e89edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00109ecedd7d94878b705d91b62d1d38') in 0.808044 seconds
+  Import took 0.810639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.557127 seconds.
+  path: Assets/Mente Bacata/Scivolo Character Controller/Demo/Textures
+  artifactKey: Guid(dafa3e3c3c35c28428ad1fcb867047a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata/Scivolo Character Controller/Demo/Textures using Guid(dafa3e3c3c35c28428ad1fcb867047a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb33a22d630a6409289b747492f73330') in 0.009972 seconds
+  Import took 0.013993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045770 seconds.
+  path: Assets/Mente Bacata/Scivolo Character Controller/Demo/Textures/GridBox_Default.png
+  artifactKey: Guid(4ef5aa6a6273ade4784552e205878812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata/Scivolo Character Controller/Demo/Textures/GridBox_Default.png using Guid(4ef5aa6a6273ade4784552e205878812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6027be064101c510d0938db1cb7d2d79') in 0.127441 seconds
+  Import took 0.130946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Mente Bacata/Scivolo Character Controller/Demo/Textures/LevelRender.renderTexture
+  artifactKey: Guid(4be65d1e48e19e9489d979cb2addf99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata/Scivolo Character Controller/Demo/Textures/LevelRender.renderTexture using Guid(4be65d1e48e19e9489d979cb2addf99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '603017a724eefa13ec1c0e6d0e8dc4ab') in 0.048035 seconds
+  Import took 0.051162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Mente Bacata/Scivolo Character Controller/Demo/Textures/GridBox_Default_AlbedoSmoothness.png
+  artifactKey: Guid(129bf168ed4ce654cb29ce9cdc0f16b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata/Scivolo Character Controller/Demo/Textures/GridBox_Default_AlbedoSmoothness.png using Guid(129bf168ed4ce654cb29ce9cdc0f16b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cfa87c6522465e4b4bf8bb7fb5e2970') in 0.022845 seconds
+  Import took 0.027114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.302261 seconds.
+  path: Assets/Mente Bacata/Scivolo Character Controller/Scripts
+  artifactKey: Guid(9c223f7548243ae4da2d2438c551eed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata/Scivolo Character Controller/Scripts using Guid(9c223f7548243ae4da2d2438c551eed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef1b1960ba899043d6e7c90f8b50083') in 0.010441 seconds
+  Import took 0.013432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.083927 seconds.
+  path: Assets/Mente Bacata/Scivolo Character Controller/Scripts/ScivoloCharacterController.asmdef
+  artifactKey: Guid(ae9be5ad8f4fea54cb89b3e70d3d8d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata/Scivolo Character Controller/Scripts/ScivoloCharacterController.asmdef using Guid(ae9be5ad8f4fea54cb89b3e70d3d8d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '026090df94159241d5e069e691754d0c') in 0.011503 seconds
+  Import took 0.014145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.863916 seconds.
+  path: Assets/Mente Bacata/Scivolo Character Controller/Demo/Prefabs
+  artifactKey: Guid(6d6c4cce036051943b0679ddfa2cebb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata/Scivolo Character Controller/Demo/Prefabs using Guid(6d6c4cce036051943b0679ddfa2cebb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed3e963de29ba53a304be57e8290ad93') in 0.011838 seconds
+  Import took 0.015729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048934 seconds.
+  path: Assets/Mente Bacata/Scivolo Character Controller/Demo/Prefabs/MyCharacter.prefab
+  artifactKey: Guid(a84e11ee423eace4aac65d32b52ee82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata/Scivolo Character Controller/Demo/Prefabs/MyCharacter.prefab using Guid(a84e11ee423eace4aac65d32b52ee82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eb9daed5a42208890b74706d9da7781') in 0.031980 seconds
+  Import took 0.034678 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002550 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.291 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.4 MB.
+System memory in use after: 60.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1575.
+Total: 2.344700 ms (FindLiveObjects: 0.165600 ms CreateObjectMapping: 0.050200 ms MarkObjects: 2.023800 ms  DeleteObjects: 0.102900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5176.430177 seconds.
+  path: Assets/Mente Bacata/Scivolo Character Controller/Scripts/Internal
+  artifactKey: Guid(4bc682d2bfbed244a9c1a3c15019ccd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mente Bacata/Scivolo Character Controller/Scripts/Internal using Guid(4bc682d2bfbed244a9c1a3c15019ccd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2234431b5244d166c23b7137ec2b19a') in 0.028338 seconds
+  Import took 0.044182 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000642 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.982 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1577.
+Total: 3.434600 ms (FindLiveObjects: 0.837000 ms CreateObjectMapping: 0.127500 ms MarkObjects: 2.437400 ms  DeleteObjects: 0.030400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
