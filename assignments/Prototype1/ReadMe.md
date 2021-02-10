@@ -27,8 +27,12 @@ You find yourself in the deepest corner of an infinite forest, with nothing but 
 
 - What is your first impression of the game?
 
+- Is there any confusion regarding how to control the game?
+
 - Does the game atmosphere convey a sense of horror/mystery?
 
 - Does the game mechanic of “switching perspective to find clues” work? If not, what can be changed/improved?
+
+* The player is supposed to pick up the ball to end the prototype but the pickup is not currently working
 
 ## Thank you for playing!
