@@ -33,6 +33,6 @@ You find yourself in the deepest corner of an infinite forest, with nothing but 
 
 - Does the game mechanic of “switching perspective to find clues” work? If not, what can be changed/improved?
 
-* The player is supposed to pick up the ball to end the prototype but the pickup is not currently working
+(The player is supposed to pick up the ball to end the prototype but the pickup is not currently working)
 
 ## Thank you for playing!
