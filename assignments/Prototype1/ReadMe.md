@@ -1,4 +1,4 @@
-# Prototype 1 Design Document
+# Janet's Prototype 1 Design Document
 
 ## Name 
 Woodland
