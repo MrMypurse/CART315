@@ -19,12 +19,13 @@ You find yourself in the deepest corner of an infinite forest, with nothing but 
 
 - Horror Atmosphere
 
-- Switch perspective to find clues
+- Switch perspective to find clues (There is no goal in this prototype)
+
 
 
 ## Game Test Questions:
 
--What is your first impression of the game?
+- What is your first impression of the game?
 
 - Does the game atmosphere convey a sense of horror/mystery?
 
